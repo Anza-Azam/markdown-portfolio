@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. :heart: Coding
+2. ❤️ Researching
+3. :heart: Learning
