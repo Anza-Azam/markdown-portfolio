@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Skills** _Problem Solving, Analytical thinking, Communication, Front End Development using React, html, css, Back End Development using Node.js, SQL 
